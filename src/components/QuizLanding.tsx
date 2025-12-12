@@ -87,7 +87,7 @@ const QuizLanding: React.FC = () => {
           </button>
 
           <button
-            onClick={() => navigate("/question3")}
+            onClick={() => navigate("/question2")}
             className="w-[45px] h-[45px] flex items-center justify-center 
             bg-[#d4e8f0] rounded-[10px] shadow hover:scale-105 transition"
           >
